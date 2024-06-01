@@ -260,7 +260,7 @@ def main():
     st.sidebar.write(" 6. Sad😥 ")
     st.sidebar.write(" 7. Surprise😮 ")
 
-    st.sidebar.subheader(" You can check out source code of this website [here](https://github.com/ompathak23/SER-App).")
+    st.sidebar.subheader(" You can check out source code of this website [here](https://github.com/Sritam-K-Behera/SER-WebApp).")
     st.sidebar.markdown("Made by Salmon & Khusi")
 
 
